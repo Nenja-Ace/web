@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amr Ashraf"
+title                    : "Abdallah Alnajjar"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Amr Ashraf"
-description              : "Malware Analysis RE"
+name                     : "Abdallah Alnajjar"
+description              : "Bug Bounty hunter - UCAS"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Amr Ashraf"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer engineer interested in reverse engineering, forensics and malware analysis "
+  bio              : "Bug hunter and Pentester , loves Web , mahmoud abu msallam and motasem UCAS  "
   location         : "Egypt"
   email            :
   links:
